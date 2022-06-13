@@ -1,6 +1,6 @@
 # Perform customer segmentation for an e-commerce site
 
-Clean data, create new features, identify important features 
+Clean data, feature engineering, identify important features 
 
 Implement clustering tests by different algorithms (KMeans, Hierarchical Clustering, DBScan)
 
